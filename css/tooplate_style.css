@@ -255,7 +255,10 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 .service_list li .service_one { background: url(../images/onebit_08.png) center left no-repeat; }
 .service_list li .service_two { background: url(../images/onebit_11.png) center left no-repeat; }
-.service_list li .service_three { background: url(../images/onebit_17.png) center left no-repeat; }
+.service_list li .service_three
+{
+background: url(../images/onebit_17.png) center left no-repeat;
+}
 .service_list li .service_four { background: url(../images/onebit_21.png) center left no-repeat; }
 .service_list li .service_five { background: url(../images/onebit_12.png) center left no-repeat; }
 .service_list li .service_six { background: url(../images/onebit_19.png) center left no-repeat; }
