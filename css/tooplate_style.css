@@ -15,7 +15,38 @@ body {
 	background-repeat:no-repeat;
 	background-position: top center;
 }
-
+.bordered {
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 1px solid darkorange;
+    border-radius: 8px;
+  }
+  
+  .bordered2 {
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    border: 1px solid darkorange;
+    border-radius: 8px;
+  }
+  
+  .bordered3 {
+    width: 500px;
+    height: 105px;
+    padding: 20px;
+    border: 1px solid darkorange;
+    border-radius: 8px;
+  }
+  
+  .bordered4 {
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    border: 1px solid darkorange;
+    border-radius: 8px;
+  }
+  
 a, a:link, a:visited { 
 	color: #e7b51b; 
 	font-weight: 700; 
@@ -32,8 +63,8 @@ a.gototop {
 	clear: both; 
 	float: right; 
 	width: 145px; 
-	height: 32px; 
-	background: url(../images/tooplate_gototop.jpg) no-repeat; 
+	height: 32px;
+	font-size:18px; 
 }
 
 a.gototop:hover { 
@@ -43,6 +74,7 @@ a.gototop:hover {
 p { 
 	margin: 0 0 10px 0; 
 	padding: 0; 
+	color:#e7b51b;
 }
 
 img { 
