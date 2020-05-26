@@ -1,2 +1,2 @@
-# primopcprotector
-Website for my portfolio/freelance services based on a pre-made template
+# TLC Computer Solutions
+A revamped website for [TLC Computer Solutions](http://www.tlcpcsolutions.com/), a tech support store in Las Vegas, that includes interactivity and a modern, minimalistic design. The front-end uses HTML, CSS, JavaScript, jQuery, and Bootstrap. The back-end uses PHP, Google Maps API, and, once the website goes live, Google Analytics and Hotjar. The website offers a simple one-page layout, responsiveness for all devices, reviews from happy customers, and much more!
