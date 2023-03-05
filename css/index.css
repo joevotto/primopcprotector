@@ -1,0 +1,137 @@
+/* General */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#phone-number-msg2 {
+    margin-top: 15px;
+}
+a:visited {
+    color: #0275d8;
+}
+
+/* Menu/Navbar */
+.nav-item {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 120%;
+}
+
+.jumbotron {
+    height: 100%;
+    color: white;
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url("images/store-front.jpg") no-repeat center center;
+    background-position: 0% 0%;
+    background-size: 100% 170%;
+    margin-top: 64px;
+    margin-bottom: 0px;
+}
+#title {
+    margin-top: 10%;
+    font-size: 0;
+    background-color: black;
+}
+
+/* Services */
+#phone-number-msg1 {
+    margin: 0;
+}
+#services-deals {
+    margin-bottom: 15px;
+}
+.services-card {
+    height: -webkit-calc(100% - 15px);
+    height: -moz-calc(100% - 15px);
+    height: calc(100% - 15px);
+}
+.card-title {
+    margin: 0;
+}
+ul {
+    text-align: left;
+    padding-left: 20px;
+}
+
+/* Locations */
+.locations-card {
+    padding: 0;
+}
+.padding-col {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#summerlin-map, #aliante-map, #downtown-map {
+    width: 100%;
+}
+.location-container-padding {
+    padding: 25px 25px 10px 25px;
+    margin: 0;
+}
+.location-hours {
+    height: 168px;
+}
+.days {
+    text-align: left;
+    height: 168px;
+}
+.hours {
+    text-align: right;
+    height: 168px;
+}
+.days p {
+    margin: 0;
+}
+.hours p {
+    margin: 0;
+}
+#directionsPopup {
+    width: 100%;
+}
+
+/* Contact Us */
+#contact-title {
+    padding-top: 15px;
+}
+.form-group {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#error-msg, #success-msg {
+    display: none;
+}
+
+/* Footer */
+footer {
+    padding-top: 20px;
+    padding-bottom: 4px;
+}
+.footer-icon {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 160%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  #about
+  {
+    width: 550px;
+    margin:0 auto;
+    text-align: center;
+  }
+
+  .form
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
